@@ -1,1 +1,1 @@
-A compilation of my JS solutions for exercise found at: https://www.w3resource.com/javascript-exercises/
+A compilation of my JS solutions for exercise found at: https://www.w3resource.com/
