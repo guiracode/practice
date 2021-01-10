@@ -5,12 +5,12 @@
 
 
 function findFirstSunday(){
-for(let y = 2014; y <= 2050; y++) {
-    let d = new Date(y, 0, 1);
-    if (d.getDay() === 0) {
-    console.log(`January 1st falls on a Sunday in ${y}`)
+    for(let y = 2014; y <= 2050; y++) {
+        let d = new Date(y, 0, 1);
+        if (d.getDay() === 0) {
+            console.log(`January 1st falls on a Sunday in ${y}`)
+        }
     }
-}
 }
 
 findFirstSunday();
